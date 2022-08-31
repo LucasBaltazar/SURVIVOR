@@ -1,12 +1,12 @@
 /** @license
  *
- * SoundManager 2: JavaScript Sound for the Web
+ * SoundManager: JavaScript Sound for the Web
  * ----------------------------------------------
- * http://schillmania.com/projects/soundmanager2/
+ * 
  *
- * Copyright (c) 2007, Scott Schiller. All rights reserved.
- * Code provided under the BSD License:
- * http://schillmania.com/projects/soundmanager2/license.txt
+ * Copyright (c) 2022, Lucas Baltazar. All rights reserved.
+ * Code provided under the BSD License.
+ * 
  *
  * V2.97a.20170601
  */
@@ -14,11 +14,11 @@
 /**
  * About this file
  * -------------------------------------------------------------------------------------
- * This is the fully-commented source version of the SoundManager 2 API,
+ * This is the fully-commented source version of the SoundManager API,
  * recommended for use during development and testing.
  *
  * See soundmanager2-nodebug-jsmin.js for an optimized build (~11KB with gzip.)
- * http://schillmania.com/projects/soundmanager2/doc/getstarted/#basic-inclusion
+ * 
  * Alternately, serve this file with gzip for 75% compression savings (~30KB over HTTP.)
  *
  * You may notice <d> and </d> comments in this source; these are delimiters for
@@ -64,7 +64,7 @@
   
     this.setupOptions = {
   
-      url: (smURL || null),             // path (directory) where SoundManager 2 SWFs exist, eg., /path/to/swfs/
+      url: (smURL || null),             // path (directory) where SoundManager SWFs exist, eg., /path/to/swfs/
       flashVersion: 8,                  // flash build to use (8 or 9.) Some API features require 9.
       debugMode: true,                  // enable debugging output (console.log() with HTML fallback)
       debugFlash: false,                // enable debugging output inside SWF, troubleshoot Flash/browser issues
