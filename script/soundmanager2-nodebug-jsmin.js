@@ -1,12 +1,12 @@
 /** @license
  *
- * SoundManager 2: JavaScript Sound for the Web
+ * SoundManager: JavaScript Sound for the Web
  * ----------------------------------------------
- * http://schillmania.com/projects/soundmanager2/
+ * 
  *
- * Copyright (c) 2007, Scott Schiller. All rights reserved.
- * Code provided under the BSD License:
- * http://schillmania.com/projects/soundmanager2/license.txt
+ * Copyright (c) 2022, Lucas Baltazar. All rights reserved.
+ * Code provided under the BSD License.
+ * 
  *
  * V2.97a.20170601
  */
