@@ -2,12 +2,12 @@
  *
  * SURVIVOR: A HTML + CSS + JavaScript prototype
  * based on the Commodore 64 version of Survivor from 1983
- * -------------------------------------------------------
- * http://schillmania.com/survivor/
- * http://www.flickr.com/photos/schill/sets/72157628885315581/
- * http://github.com/scottschiller/
  *
- * Scott Schiller wrote this beginning in December 2011, on a plane to Hawaii.
+ * 
+ * 
+ * http://github.com/LucasBaltazar/
+ *
+ * Lucas Baltazar wrote this beginning in July 2022.
  * Code provided under the Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) License:
  * http://creativecommons.org/licenses/by-nc/3.0/
  *
