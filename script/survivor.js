@@ -8438,7 +8438,7 @@ function go_go_go() {
 
     _1541.onPosition(800, function() {
       /**
-       * SEARCHING FOR SURVIVOR-2012
+       * SEARCHING FOR SURVIVOR-2022
        * at this point, the Commodore 1541-II floppy drive's head knocking sound is playing.
        * and yes, technically this alignment process is usually heard only when formatting disks.
        * if you heard that and were frowning in disappointment at the mis-use, yes, you are technically correct.
