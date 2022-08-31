@@ -8,6 +8,6 @@
 == ABOOT
 
  * You know what never gets old? ... Nostalgia.
- * This project began in December 2011, whilst on a plane to Hawaii (that is to say, 5 hours without wifi.)
+ * This project began in July 2022.
  * Code provided under the Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) License.
  * http://creativecommons.org/licenses/by-nc/3.0/
