@@ -1,6 +1,6 @@
 == SURVIVOR: A HTML + CSS + JavaScript prototype based on the Commodore 64 version of Survivor from 1983
 
-    * 
+    * https://github.com/LucasBaltazar/
     * https://github.com/LucasBaltazar/SURVIVOR
 
 == ABOUT
