@@ -13,7 +13,7 @@
  *
  */
 
-// Side note, 2012.02.27: holy crap, this is nowhere near pleasing the JSLINT gods yet.
+// Side note, 2022.08.31: holy crap, this is nowhere near pleasing the JSLINT gods yet.
 
 (function() {
 
