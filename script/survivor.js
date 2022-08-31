@@ -1,16 +1,12 @@
 /** @license
  *
- * SURVIVOR: A HTML + CSS + JavaScript prototype
- * based on the Commodore 64 version of Survivor from 1983
- * -------------------------------------------------------
- * http://schillmania.com/survivor/
- * http://www.schillmania.com/content/entries/2012/survivor-c64-html-remake/
- * http://www.flickr.com/photos/schill/sets/72157628885315581/
- * https://github.com/scottschiller/SURVIVOR
+ * SoundManager: JavaScript Sound for the Web
+ * ----------------------------------------------
+ * 
  *
- * Scott Schiller wrote this beginning in December 2011, while on a plane to Hawaii.
- * Code provided under the Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) License:
- * http://creativecommons.org/licenses/by-nc/3.0/
+ * Copyright (c) 2022, Lucas Baltazar. All rights reserved.
+ * Code provided under the BSD License.
+ * 
  *
  */
 
